@@ -1,0 +1,4 @@
+Implement a function called validate that expects
+an IPv4 address as input as a str and then returns
+True or False, respectively, if that input is a valid
+IPv4 address or not.
